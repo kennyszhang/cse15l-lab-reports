@@ -12,13 +12,15 @@ heading 1
 heading 2
 --
 
-[Link](http://google.com)
-[Link][1]
+[link](http://google.com)
+
+[link][1]
 ⋮
 [1]: http://google.com
 
-![Image](https://fadeawayworld.net/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg1MjkwODQ1MTk1MzQ3NjAz/stephen-curry-pointing.jpg)
-![Image][1]
+![image](https://fadeawayworld.net/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg1MjkwODQ1MTk1MzQ3NjAz/stephen-curry-pointing.jpg)
+
+![image][1]
 ⋮
 [1]: https://fadeawayworld.net/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg1MjkwODQ1MTk1MzQ3NjAz/stephen-curry-pointing.jpg
 
