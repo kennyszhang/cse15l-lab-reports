@@ -15,13 +15,13 @@ heading 2
 [link](http://google.com)
 
 [link][1]
-⋮
+
 [1]: http://google.com
 
 ![image](https://fadeawayworld.net/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg1MjkwODQ1MTk1MzQ3NjAz/stephen-curry-pointing.jpg)
 
 ![image][1]
-⋮
+
 [1]: https://fadeawayworld.net/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg1MjkwODQ1MTk1MzQ3NjAz/stephen-curry-pointing.jpg
 
 > blockquote
