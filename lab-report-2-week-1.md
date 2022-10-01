@@ -10,7 +10,6 @@ enter the following commands on the terminal:
 ```
 ssh cs15lfa22zz@ieng6.ucsd.edu (zz replaced by the letters in your course-specific account)
 
-# first time login message
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
@@ -19,7 +18,6 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 Password: 
 (type your password)
 
-# login was successful
 Last login: Sun Jan  2 14:03:05 2022 from 107-217-10-235.lightspeed.sndgca.sbcglobal.net
 quota: No filesystem specified.
 Hello cs15lfa22zz, you are currently logged into ieng6-203.ucsd.edu
@@ -57,7 +55,6 @@ here are some commands to try:
 ## moving files with scp
 
 ```
-# example code, name the file WhereAmI.java
 class WhereAmI {
   public static void main(String[] args) {
     System.out.println(System.getProperty("os.name"));
@@ -82,7 +79,6 @@ enter the following commands on the terminal:
 ```
 ssh-keygen
 
-# generates rsa public and private keys
 Generating public/private rsa key pair.
 Enter file in which to save the key (/Users/kennyzhang/.ssh/id_rsa): 
 (press enter)
@@ -91,7 +87,6 @@ Enter passphrase (empty for no passphrase):
 Enter same passphrase again: 
 (press enter)
 
-# rsa public and private keys generated
 Your identification has been saved in /Users/kennyzhang/.ssh/id_rsa.
 Your public key has been saved in /Users/kennyzhang/.ssh/id_rsa.pub. (remember where this file is stored)
 The key fingerprint is:
