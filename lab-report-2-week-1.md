@@ -7,6 +7,7 @@ navigate to https://code.visualstudio.com/ and click download
 
 <img width="538" alt="Screen Shot 2022-09-30 at 10 59 10 PM" src="https://user-images.githubusercontent.com/68624067/193395066-fa395335-b5c3-459d-b3da-28352cec15d6.png">
 enter the following commands on the terminal:
+
 ```
 ssh cs15lfa22zz@ieng6.ucsd.edu (zz replaced by the letters in your course-specific account)
 ```
@@ -72,6 +73,7 @@ class WhereAmI {
 
 <img width="564" alt="Screen Shot 2022-09-30 at 11 13 43 PM" src="https://user-images.githubusercontent.com/68624067/193395546-31384cba-8343-4aea-ab8f-0c43479a6158.png">
 enter the following commands on the terminal:
+
 ```
 scp WhereAmI.java cs15lfa22zz@ieng6.ucsd.edu:~/ (zz replaced by the letters in your course-specific account)
 javac WhereAmI.java (compiles code)
@@ -81,6 +83,7 @@ java WhereAmI (runs code)
 ## setting an ssh key
 
 enter the following commands on the terminal:
+
 ```
 ssh-keygen
 ```
@@ -135,6 +138,7 @@ Password:
 use the up and down arrows to quickly run previously run commands
 
 for example:
+
 ```
 ssh cs15lfa22zz@ieng6.ucsd.edu
 exit
