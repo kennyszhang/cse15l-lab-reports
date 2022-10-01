@@ -9,15 +9,20 @@ navigate to https://code.visualstudio.com/ and click download
 enter the following commands on the terminal:
 ```
 ssh cs15lfa22zz@ieng6.ucsd.edu (zz replaced by the letters in your course-specific account)
+```
 
+```
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 (type yes)
+```
 
+```
 Password: 
 (type your password)
-
+```
+```
 Last login: Sun Jan  2 14:03:05 2022 from 107-217-10-235.lightspeed.sndgca.sbcglobal.net
 quota: No filesystem specified.
 Hello cs15lfa22zz, you are currently logged into ieng6-203.ucsd.edu
@@ -78,7 +83,8 @@ java WhereAmI (runs code)
 enter the following commands on the terminal:
 ```
 ssh-keygen
-
+```
+```
 Generating public/private rsa key pair.
 Enter file in which to save the key (/Users/kennyzhang/.ssh/id_rsa): 
 (press enter)
@@ -86,7 +92,8 @@ Enter passphrase (empty for no passphrase):
 (press enter)
 Enter same passphrase again: 
 (press enter)
-
+```
+```
 Your identification has been saved in /Users/kennyzhang/.ssh/id_rsa.
 Your public key has been saved in /Users/kennyzhang/.ssh/id_rsa.pub. (remember where this file is stored)
 The key fingerprint is:
@@ -103,15 +110,21 @@ The key's randomart image is:
 |           +.+.o |
 |             ..  |
 +----[SHA256]-----+
+```
 
+```
 ssh cs15lfa22zz@ieng6.ucsd.edu (zz replaced by the letters in your course-specific account)
+```
 
+```
 Password: 
 (type your password)
 mkdir .ssh
 exit
 scp /Users/kennyzhang/.ssh/id_rsa.pub cs15lfa22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys (zz replaced by the letters in your course-specific account)
+```
 
+```
 Password:
 (type your password)
 ```
