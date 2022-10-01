@@ -1,8 +1,7 @@
 ## installing vscode
 
 <img width="1512" alt="Screen Shot 2022-09-30 at 10 40 08 PM" src="https://user-images.githubusercontent.com/68624067/193394509-eb8d8438-6bc2-4c96-8de3-33f63f0d29e4.png">
-1. navigate to this [url](https://code.visualstudio.com/)
-2. click download
+navigate to this [url](https://code.visualstudio.com/) and click download
 
 ## remotely connecting
 
