@@ -131,8 +131,8 @@ scp /Users/kennyzhang/.ssh/id_rsa.pub cs15lfa22zz@ieng6.ucsd.edu:~/.ssh/authoriz
 Password:
 (type your password)
 ```
-<img width="1512" alt="Screen Shot 2022-09-30 at 10 40 08 PM" src="https://user-images.githubusercontent.com/68624067/193395734-781288a0-f4c4-46ac-b3fe-39799c5e1e82.png">
 
+<img width="571" alt="Screen Shot 2022-09-30 at 10 21 13 PM" src="https://user-images.githubusercontent.com/68624067/193397451-b0c4996f-ce45-4c73-8310-97f05177f9eb.png">
 
 ## optimizing remote running
 use the up and down arrows to quickly run previously run commands
