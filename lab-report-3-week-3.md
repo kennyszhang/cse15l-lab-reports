@@ -98,6 +98,8 @@ using a for loop with bounds i < dictionary.size()
 ```
 
 # part 2
+## ArrayExamples
+
 <img width="611" alt="Screen Shot 2022-10-14 at 1 53 51 AM" src="https://user-images.githubusercontent.com/68624067/195805834-ea75978e-87e6-4ad6-9493-832c63511e77.png">
 
 junit test screenshot
@@ -119,19 +121,27 @@ in the example shown above, we were able to grab the first two numbers correctly
 but the last number is incorrect because we are grabbing the changed number. 
 our old input is now gone because it was altered.
 ```
-<img width="561" alt="Screen Shot 2022-10-14 at 1 54 06 AM" src="https://user-images.githubusercontent.com/68624067/195805872-c6de1b65-d7d5-470d-ada8-6209425b7497.png">
+
+## ListExamples
+
+<img width="594" alt="Screenshot 2022-10-27 at 4 11 29 PM" src="https://user-images.githubusercontent.com/68624067/198414677-a2e77cec-099e-4c07-9b7c-787dce6b9334.png">
 
 junit test screenshot
 
-<img width="353" alt="Screenshot 2022-10-25 at 3 41 44 PM" src="https://user-images.githubusercontent.com/68624067/197895679-ea400bf1-fd19-40d1-be5b-14be289bfd0a.png">
+<img width="453" alt="Screenshot 2022-10-27 at 4 12 27 PM" src="https://user-images.githubusercontent.com/68624067/198414778-d3bc288c-750e-4515-add9-1ebc7787082a.png">
 
 junit terminal output
 
+<img width="614" alt="Screenshot 2022-10-27 at 4 13 17 PM" src="https://user-images.githubusercontent.com/68624067/198414874-c3857393-dcea-40f7-a622-9a56ece0a55f.png">
+
 fixed code i did to eliminate bug
 
+<img width="478" alt="Screenshot 2022-10-27 at 4 16 18 PM" src="https://user-images.githubusercontent.com/68624067/198415153-3d160747-8145-4c19-901b-5d49c380755a.png">
+
+
 ```
-in the default code, it is grabbing values out of an empty array that was just created.
-in the example shown above, it fails on the first index because we are grabbing values out of the 
-new array with nothing inside of it.
+in the default code, it is sending all that matches our conditions to the front of the list
+in the example shown above, it fails to output the output in the correct order. 
+the contents of the output were correct. 
 ```
 
