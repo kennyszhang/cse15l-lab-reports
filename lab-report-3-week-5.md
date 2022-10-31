@@ -1,7 +1,7 @@
 # less
-```
-less -N filename
-```
+
+## less -N filename
+
 <img width="467" alt="Screenshot 2022-10-30 at 7 52 28 PM" src="https://user-images.githubusercontent.com/68624067/198921106-688dbe15-e4ac-4d0d-8f8f-dd704ebc65a2.png">
 
 output:
@@ -14,9 +14,8 @@ inside the "temp.txt" file. i think it is useful to see how many files
 are listed
 ```
 
-```
-less -X filename
-```
+## less -X filename
+
 <img width="468" alt="Screenshot 2022-10-30 at 8 00 06 PM" src="https://user-images.githubusercontent.com/68624067/198922021-46fe1f58-12c6-4977-b12e-0935ba5e1573.png">
 
 ```
@@ -25,9 +24,8 @@ but it will stay inside your terminal after quiting. i think it is useful
 for refering back to in your terminal without rerunning the less command
 ```
 
-```
-less -M filename
-```
+## less -M filename
+
 <img width="466" alt="Screenshot 2022-10-30 at 8 08 57 PM" src="https://user-images.githubusercontent.com/68624067/198922987-e86ebdae-5a74-4b2b-a78b-3993eb736506.png">
 
 output:
