@@ -58,21 +58,25 @@ echo "report saved to student-submission/output.txt"
 
 # trace of https://github.com/ucsd-cse15l-f22/list-methods-compile-error
 <img width="244" alt="Screenshot 2022-11-28 at 11 42 41 AM" src="https://user-images.githubusercontent.com/68624067/204366531-dea07c58-565e-44d4-8198-e0980fe90802.png">
+
 ```
 return code is 0 because we have provided a github repo link
 ```
 
 <img width="356" alt="Screenshot 2022-11-28 at 11 43 53 AM" src="https://user-images.githubusercontent.com/68624067/204366749-d7508970-27d7-496f-8c73-56e51486e38d.png">
+
 ```
 return code is 0 because the file ListExamples.java is found
 ```
 
 <img width="262" alt="Screenshot 2022-11-28 at 11 44 47 AM" src="https://user-images.githubusercontent.com/68624067/204366868-5ed065fe-e729-4923-8bbd-c1bfe704664a.png">
+
 ```
 return code is 0 because the file name matches
 ```
 
 <img width="230" alt="Screenshot 2022-11-28 at 11 45 37 AM" src="https://user-images.githubusercontent.com/68624067/204367011-f5433195-58b8-4276-a020-05e10532a025.png">
+
 ```
 return code is 1 because the file failed to compile
 ```
