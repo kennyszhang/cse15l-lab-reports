@@ -84,9 +84,9 @@ difficulties or details that came up in doing so.
 
 ```
 I did not measure exactly how long each process took but running the file after 
-scping the file over to the remote server was way faster than editing inside the 
-remote server using vim. This is just because I am slow using vim 
-(because I was very careful on which key I pressed) and I constantly refered 
+scping the file over to the remote server was way faster (around five minutes faster)
+than editing inside the remote server using vim. This is just because I am slow 
+using vim (because I was very careful on which key I pressed) and I constantly refered 
 towards the group document where I performed the command. 
 ```
 
